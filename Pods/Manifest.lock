@@ -1,0 +1,20 @@
+PODS:
+  - ASValueTrackingSlider (0.12.1)
+  - SNCollectionViewLayout (1.0.1)
+
+DEPENDENCIES:
+  - ASValueTrackingSlider
+  - SNCollectionViewLayout
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ASValueTrackingSlider
+    - SNCollectionViewLayout
+
+SPEC CHECKSUMS:
+  ASValueTrackingSlider: 5261de3fcf00adb339efc93885e8f0bc99e703cd
+  SNCollectionViewLayout: 9991574aa022237c75acf0e3dc890b09aa4e4c31
+
+PODFILE CHECKSUM: 37e07ef31275d480ec03d1af66db2afde18a62dd
+
+COCOAPODS: 1.6.1
